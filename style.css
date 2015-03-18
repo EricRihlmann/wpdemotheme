@@ -1,0 +1,18 @@
+/*
+ Theme Name:     WP Demo Theme
+ Description:    Just a demo child theme
+ Author:         Eric Rihlmann
+ Author URI:     http://ericrihlmann.com
+ Template:       twentyfourteen
+ Version:        0.0.1
+*/
+
+@import url("../twentyfourteen/style.css");
+
+/* Theme customization starts here
+------------------------------------------------------- */
+
+.site-header,
+#secondary {
+	background: dodgeblue;
+}
